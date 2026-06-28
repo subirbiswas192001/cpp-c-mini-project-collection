@@ -147,7 +147,7 @@ If you find this repository helpful, please consider giving it a **Star ⭐**.
 
 Assistant Professor | Researcher | Machine Learning & Computer Vision Enthusiast
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/subirbiswas192001
 
 ---
 
