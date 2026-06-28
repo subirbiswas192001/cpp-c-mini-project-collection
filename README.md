@@ -1,7 +1,7 @@
 # 🚀 Terminal Projects in C & C++
 
 <p align="center">
-  <img src="coding.gif" width="700">
+  <img src="ff.gif" width="700">
 </p>
 
 <p align="center">
